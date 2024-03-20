@@ -1,0 +1,11 @@
+C:\Users\Rachid\Desktop\MySolution\MyEntities\bin\Debug\net8.0\MyEntities.deps.json
+C:\Users\Rachid\Desktop\MySolution\MyEntities\bin\Debug\net8.0\MyEntities.dll
+C:\Users\Rachid\Desktop\MySolution\MyEntities\bin\Debug\net8.0\MyEntities.pdb
+C:\Users\Rachid\Desktop\MySolution\MyEntities\obj\Debug\net8.0\MyEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rachid\Desktop\MySolution\MyEntities\obj\Debug\net8.0\MyEntities.AssemblyInfoInputs.cache
+C:\Users\Rachid\Desktop\MySolution\MyEntities\obj\Debug\net8.0\MyEntities.AssemblyInfo.cs
+C:\Users\Rachid\Desktop\MySolution\MyEntities\obj\Debug\net8.0\MyEntities.csproj.CoreCompileInputs.cache
+C:\Users\Rachid\Desktop\MySolution\MyEntities\obj\Debug\net8.0\MyEntities.dll
+C:\Users\Rachid\Desktop\MySolution\MyEntities\obj\Debug\net8.0\refint\MyEntities.dll
+C:\Users\Rachid\Desktop\MySolution\MyEntities\obj\Debug\net8.0\MyEntities.pdb
+C:\Users\Rachid\Desktop\MySolution\MyEntities\obj\Debug\net8.0\ref\MyEntities.dll

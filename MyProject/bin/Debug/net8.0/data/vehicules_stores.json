@@ -1,0 +1,72 @@
+[
+  {
+    "$type": "camion",
+    "Poids": 19000,
+    "Marque": "Volvo",
+    "Modele": "2025",
+    "Numero": "39844"
+  },
+  {
+    "$type": "voiture",
+    "Puissance": 250,
+    "Marque": "Audi",
+    "Modele": "2000",
+    "Numero": "38383"
+  },
+  {
+    "$type": "voiture",
+    "Puissance": 300,
+    "Marque": "Mercedes-Benz",
+    "Modele": "2001",
+    "Numero": "12938"
+  },
+  {
+    "$type": "camion",
+    "Poids": 20500,
+    "Marque": "Volvo",
+    "Modele": "2025",
+    "Numero": "21938"
+  },
+  {
+    "$type": "camion",
+    "Poids": 34000,
+    "Marque": "Volvo",
+    "Modele": "2025",
+    "Numero": "00293"
+  },
+  {
+    "$type": "voiture",
+    "Puissance": 300,
+    "Marque": "Chevrolet",
+    "Modele": "2001",
+    "Numero": "19702"
+  },
+  {
+    "$type": "voiture",
+    "Puissance": 150,
+    "Marque": "Dodge",
+    "Modele": "2025",
+    "Numero": "28101"
+  },
+  {
+    "$type": "camion",
+    "Poids": 14000,
+    "Marque": "Volvo",
+    "Modele": "2025",
+    "Numero": "56182"
+  },
+  {
+    "$type": "voiture",
+    "Puissance": 250,
+    "Marque": "Renault",
+    "Modele": "2000",
+    "Numero": "43291"
+  },
+  {
+    "$type": "voiture",
+    "Puissance": 100,
+    "Marque": "Volkswagen",
+    "Modele": "2001",
+    "Numero": "98201"
+  }
+]
